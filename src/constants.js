@@ -24,7 +24,7 @@ import vercelLogo from "./assets/tech_logo/vercel.png";
 import csharpLogo from "./assets/tech_logo/csharp.png";
 
 import tableau from "./assets/tech_logo/tableau.jpg";
-import SnowFlake from "./assets/tech_logo/snowflake.jpg";
+import SnowFlake from "./assets/tech_logo/SnowFlake.png";
 import aws from "./assets/tech_logo/aws.jpg";
 import flask from "./assets/tech_logo/flask.jpg";
 import Numpy from "./assets/tech_logo/Numpy.jpg";
