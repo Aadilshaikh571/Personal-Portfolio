@@ -40,7 +40,7 @@ import FineTrackPh from "./assets/work_logo/FineTrack.png";
 import BookHome from "./assets/work_logo/BookHome.png";
 import Lgo11 from "./assets/work_logo/Weather.png";
 import NexGenPh from "./assets/work_logo/NexGen.png";
-import powerBiPh from "./assets/work_logo/powerBi.jpg";
+import powerBiPh from "./assets/work_logo/PowerBi.jpg";
 import SnowFlakePh from "./assets/work_logo/SnowFlake.png.jpg";
 import AgroCraftPG from "./assets/work_logo/AgroCraft.png";
 
